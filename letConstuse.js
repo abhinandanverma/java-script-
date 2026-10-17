@@ -1,12 +1,25 @@
 
 // _________________let using_____________
 
-let marks;
-console.log(marks);
+// let marks;
+// console.log(marks);
 
-let fullName = "Abhiandan";
+// let fullName = "Abhiandan";
 
 // ____________const____________
 
-const PI = 3.14;
-console.log (PI);
+// const PI = 3.14;
+// console.log (PI);
+
+
+// let a;
+
+// console.log (a);
+
+{
+let a =5;
+console.log(a);
+}
+
+let a = 5;
+console.log(a);
